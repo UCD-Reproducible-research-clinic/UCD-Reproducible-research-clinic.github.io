@@ -1,0 +1,15 @@
+---
+title: "Getting started- our first analysis"
+author: "Reproducible reseach clinic"
+output:
+  html_document:
+    toc: false
+---
+If you are just getting started, install the [R Programming language](https://www.r-project.org/) then download the integrated development environment (IDE) [RStudio](https://www.rstudio.com/). 
+When you open RStudio, type the following into your `command window` or `console`:
+
+```{r setup, include=TRUE, eval=FALSE}
+install.packages("tidyverse")
+install.packages("rmarkdown")
+```
+

@@ -3,17 +3,20 @@ output_dir: "../docs"
 include: [".nojekyll"]
 exclude: ["include"]
 navbar:
-  title: UCD-Reproducible-research-clinic.github.io
+  title: Reproducible research clinic
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-    - text: "License"
-      href: license.html
+    - text: "Members"
+      href: members.html
+    - text: "Getting started"
+      href: getting-started.html
+
   right:
     - icon: fa-github
-      href: https://github.com/jdblischak/workflowr
+      href: https://github.com/UCD-Reproducible-research-clinic
 output:
   html_document:
     toc: true
