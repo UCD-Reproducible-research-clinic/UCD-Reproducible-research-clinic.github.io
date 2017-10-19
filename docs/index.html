@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+<meta name="author" content="Reproducible reseach clinic" />
+
+
+<title>Home</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Reproducible research clinic</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="members.html">Members</a>
+</li>
+<li>
+  <a href="getting-started.html">Getting started</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://github.com/UCD-Reproducible-research-clinic">
+    <span class="fa fa-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Home</h1>
+<h4 class="author"><em>Reproducible reseach clinic</em></h4>
+
+</div>
+
+
+<div id="welcome-to-reproducible-research-clinic" class="section level1">
+<h1>Welcome to reproducible research clinic!</h1>
+<p>The UC-Denver Reproducible Research Clinic seeks to inspire researchers to adopt the principles and practices of Reproducible Research (RR) so that they become part of daily scientific workflow. The club has two goals that will be addressed every meeting. We will:</p>
+<ol style="list-style-type: decimal">
+<li>provide support and tutorials for the adoption and general use of RR tools</li>
+<li>help researchers with their specific statistical and coding needs in a “clinic” setting.</li>
+</ol>
+<div id="why-should-i-try-to-learn-reproducible-research-practices-with-r" class="section level2">
+<h2>Why should I try to learn reproducible research practices with R?</h2>
+<p><strong>TL;DR:</strong> learning R and reproducible research practices makes your life <em>easier</em>. You spend less time copy-pasting and more time doing what matters. You don’t need the whole langauge, we will show you the important parts!</p>
+<p>See our <a href="about.html">about page</a> for a longer description of why you should learn R for data analysis.</p>
+</div>
+<div id="programming-for-scientists" class="section level2">
+<h2>Programming for scientists</h2>
+<p>Getting started with a programming language can be intimidating, but it really shouldn’t be! Keep in mind that most people in this group have been coding for <strong>less than 3 years</strong>! Learning to program as part of your academic work can make you more productive and is also an extremly lucrative skillset both inside and outside of academia (especially for languages like R and Python!). Most importantly, learning these tools empowers you to perform more reproducible research. More of your time will be spent reading and planning experiments while minimizing (eventually eliminating) the amount of copy-pasting and fumbling around with excel. Again, the best part is that R and python (we use R for the most part) are FREE and opensource languages! No license fees or proprietary formats required.</p>
+</div>
+<div id="need-more-reasons" class="section level2">
+<h2>Need more reasons?</h2>
+<ul>
+<li><a href="http://www.r-graph-gallery.com/portfolio/ggplot2-package/">R makes beautiful charts</a></li>
+<li><a href="https://www.r-bloggers.com/add-p-values-and-significance-levels-to-ggplots/">Can graphpad do this (p-values and stars)?</a></li>
+<li><a href="http://www.statisticsviews.com/details/feature/8585391/Created-by-statisticians-for-statisticians-How-R-took-the-world-of-statistics-by.html">R was created by, and is used by professional statisticians</a></li>
+<li>The average salary for a data scientist (R and Python are the most popular languages) in the US is <a href="https://insights.stackoverflow.com/survey/2017#work-salaries-by-geography">$100,000</a></li>
+<li>It isn’t that hard to get started!</li>
+</ul>
+</div>
+<div id="how-will-i-learn-r-for-my-analysis" class="section level2">
+<h2>How will I learn R for my analysis?</h2>
+<p>Most people go about learning a language by trying to read through a whole introduction and doing all the boring exercises first. It may be months before they get to do anything intersting, relevant, or useful. We dont think that is a useful exercise or even the most efficient way to learn. As scientists, we learn to solve problems and get answers. We find the papers and learn what we have to in order to do the experiments and solve problems. We aren’t computer scientists, so let’s take the same approach to learning R! We will learn by exploring YOUR data. We show you the relevant commands, and you learn how to tweak options and explore even more. You learn what you need and want, that’s it!</p>
+</div>
+</div>
+<div id="our-first-analysis-a-quick-intro-to-data-analysis-with-r" class="section level1">
+<h1>Our first analysis (a quick intro to data analysis with R)</h1>
+<p>In a coming post, we will perform our first quick analysis on some simulated data and learn the basics of the language as we go. If you have trouble, don’t hesitate to contact us or stop by a meeting, we are happy to help!</p>
+</div>
+
+<hr>
+<p>
+    This <a href="http://rmarkdown.rstudio.com">R Markdown</a> site was created with <a href="https://github.com/jdblischak/workflowr">workflowr</a>
+</p>
+<hr>
+
+<!-- To enable disqus, uncomment the section below and provide your disqus_shortname -->
+
+<!-- disqus
+  <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'rmarkdown'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+-->
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
