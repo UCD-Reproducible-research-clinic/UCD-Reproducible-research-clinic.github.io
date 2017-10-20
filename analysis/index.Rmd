@@ -7,6 +7,7 @@ output:
 ---
 
 # Welcome to reproducible research clinic! 
+
 The UC-Denver Reproducible Research Clinic seeks to inspire researchers to adopt the principles and practices of Reproducible Research (RR) so that they become part of daily scientific workflow. The club has two goals that will be addressed every meeting. We will: 
 
 1. provide support and tutorials for the adoption and general use of RR tools 
