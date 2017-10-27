@@ -1,7 +1,35 @@
 ---
-title: "Members"
+title: "Organizers and Contact Information"
 output:
   html_document:
     toc: false
 ---
-Coming soon
+
+
+### Nicholas George
+Graduate Student
+NICHOLAS.M.GEORGE@UCDENVER.EDU
+Anschutz Campus - Sch of Med - Cell and Developmental Bio
+
+### Joshua Johnson
+Assistant Professor
+Division of Reproductive Sciences
+Department of Obstetrics and Gynecology
+University of Colorado Denver (AMC)
+Building RC2, Room P15 3103
+Mail Stop 8613
+Aurora, Colorado 80045
+
+Office: 303.724.7281
+Mobile: 203.889.8123
+Email: joshua.2.johnson@ucdenver.edu
+
+### Wladimir Labeikovski
+Health Sciences Library
+UC Denver | Anschutz Medical Campus
+orcid.org/0000-0001-6074-3269
+
+### Tzu Phang
+Tzu.Phang@ucdenver.edu
+Research II : room 9400 D
+Anschutz Campus - Sch of Med - BIOMED
