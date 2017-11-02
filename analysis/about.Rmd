@@ -12,11 +12,9 @@ The UC-Denver Reproducible Research Clinic seeks to inspire researchers to adopt
 
 2. help researchers with their specific statistical and coding needs in a "clinic" setting.
 
-We meet every other Friday at 11:00am on the 3rd Floor of RC2. Contact Josh or Nick about time and location!
+We meet every other Friday at 11:00am in various floors. Contact Josh or Nick about time and location!
 
-Nick - nicholas.m.george@ucdenver.edu
-
-Josh - 
+[Contact](https://ucd-reproducible-research-clinic.github.io/members.html) us here.
 
 ## Links
 
