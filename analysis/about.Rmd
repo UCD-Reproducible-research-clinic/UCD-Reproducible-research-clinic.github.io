@@ -17,6 +17,7 @@ We meet every other Friday at 11:00am on the 3rd Floor of RC2. Contact Josh or N
 Nick - nicholas.m.george@ucdenver.edu
 
 Josh - 
+
 ## Links
 
 - Nick's presentation [Can GraphPad do this?](https://ucd-reproducible-research-clinic.github.io/can-graphpad-do-this/p-value-plots.html) demonstrating __ggpubr__ a package that allows you to add significance bars and stars directly to plots
