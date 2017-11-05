@@ -3,7 +3,7 @@ output_dir: ".."
 include: [".nojekyll"]
 exclude: ["include"]
 navbar:
-  title: Reproducible research clinic
+  title: Reproducible research network
   left:
     - text: "About"
       href: about.html
