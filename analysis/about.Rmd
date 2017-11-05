@@ -7,15 +7,15 @@ output:
 
 # Welcome to reproducible research Network! 
 
-We meet every other Friday at 11:00am in various floors. Contact Josh or Nick about time and location!
+We meet every other Friday at 11:00am in various locations. Contact Josh or Nick about time and location!
 
-[Contact](https://ucd-reproducible-research-clinic.github.io/members.html) us here.
+[Contact page](https://ucd-reproducible-research-clinic.github.io/members.html)
 
 ## Why should I learn R for reproducible research?
-**Programming by scientists, for scientists**
+*Programming by scientists, for scientists*
 As scientists, we have to learn many tools to make our research possible. We end up learing and using many advanced tools for bench lab work, but when it comes to data analysis we default to our inherited 'easy to get started' tools like Microsoft Excel and GraphPad Prism. These tools make it easy to get started and get a quick look at your data, but problems quickly arise when your analysis gets even slightly complex. How many times have you spent hours copy pasting results from an excel spreadsheet into Prism, or missed a row when pasting data into excel for a calculation? Or how about that awesome figure you made 6 months ago that your advisor wants to use for a grant or wants you to add more data to? Can you find that screenshot or png but just cant remember the exact set of steps you took to generate it? 
 
-The problem with tools like Microsoft Excel and GraphPad Prism is that they are expensive programs and they make it very difficult to 'script' or automate your workflow. Although they may be easier in the short term, in the long term they require you to spend countless hours copy-pasting and clicking through options every time you have data to analyze. Here at the Reproducible research clinic, we think your time as a scientist is too valuable to spend copy-pasting data. You bring us your data, and we will show you how your analysis can be simplified and automated using R, a FREE and OPEN-SOURCE programming language.  
+**The problem** with tools like Microsoft Excel and GraphPad Prism is that they are *expensive* programs and they make it very difficult to **'script' or automate** your workflow. Although they may be easier in the short term, in the long term they require you to spend countless hours copy-pasting and clicking through options every time you have data to analyze. Here at the Reproducible research clinic, we think your time as a scientist is too valuable to spend copy-pasting data. You bring us your data, and we will show you how your analysis can be simplified and automated using R, a **FREE and OPEN-SOURCE** programming language.  
 
 Getting started with a programming language can be intimidating, but it really shouldn't be! Keep in mind that most people in this group have been coding for **less than 3 years**! Learning to program as part of your academic work can make you more productive and is also an extremly lucrative skillset both inside and outside of academia (especially for languages like R and Python!). Most importantly, learning these tools empowers you to perform more reproducible research. More of your time will be spent reading and planning experiments while minimizing (eventually eliminating) the amount of copy-pasting and fumbling around with excel. Again, the best part is that R and python (we use R for the most part) are FREE and opensource languages! No license fees or proprietary formats required. 
 
@@ -41,7 +41,7 @@ We will learn by exploring YOUR data. We show you the relevant commands, and you
 
 ## What is this .rmd thing?
 
-This website is written in a document format called R markdown (.rmd). Rmd is a plain text [future-proof](https://simplystatistics.org/2017/06/13/the-future-of-education-is-plain-text/) format that holds code, text, images, and graphics all in one place! The great thing about Rmd is that you can use *the same document* to generate reports, slideshows, word documents, and perform all of your data analysis on the fly in a documented, reproducible format. We built this website for free on [github pages](https://pages.github.com/) using [workflowr](https://jdblischak.github.io/workflowr/articles/wflow-01-getting-started.html)! More about this coming soon!
+This website is written in a document format called R markdown (.Rmd). Rmd is a plain text [future-proof](https://simplystatistics.org/2017/06/13/the-future-of-education-is-plain-text/) format that holds code, text, images, and graphics all in one place! The great thing about Rmd is that you can use *the same document* to generate reports, slideshows, word documents, and perform all of your data analysis on the fly in a documented, reproducible format. We built this website for free on [github pages](https://pages.github.com/) using [workflowr](https://jdblischak.github.io/workflowr/articles/wflow-01-getting-started.html)! More about this coming soon!
 
 - Getting started with [Rmarkdown](http://rmarkdown.rstudio.com/)
 
