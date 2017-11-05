@@ -1,5 +1,5 @@
 ---
-title:  Welcome to Reproducible Research Network! 
+title:  Welcome to the Reproducible Research Network! 
 output:
   html_document:
     toc: false

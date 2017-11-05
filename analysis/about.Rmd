@@ -5,7 +5,7 @@ output:
     toc: false
 ---
 
-# Welcome to reproducible research Network! 
+# Welcome to the reproducible research Network! 
 
 We meet every other Friday at 11:00am in various locations. Contact Josh or Nick about time and location!
 

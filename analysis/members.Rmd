@@ -42,7 +42,9 @@ Anschutz Campus - Sch of Med - BIOMED
 *If you feel like reproducible research practices helped streamline and improve your workflow, please consider starting one in your own department! Let one of our Network organizers know if you are interested and we will help you get organized and get started!*  
 
 ## RRN- Reproductive sciences
-**Organizer:** Joshua Johnson
+**Organizer:** Joshua Johnson, PhD  
+**Meeting Time:** 11am, first and third Friday of the month  
+**Meeting Location:** RC2, 3rd Floor 3109  
 **Contact:**
 Assistant Professor  
 Division of Reproductive Sciences  
