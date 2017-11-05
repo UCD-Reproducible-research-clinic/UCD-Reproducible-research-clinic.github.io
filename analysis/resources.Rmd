@@ -1,6 +1,5 @@
 ---
 title: "Resources"
-author: "UC-Denver Anschutz Campus Reproducible Research Clinic"
 output:
   html_document:
     toc: false
@@ -8,7 +7,7 @@ output:
 
 # Past presentations
 
-- Nick's presentation [Can GraphPad do this?](https://ucd-reproducible-research-clinic.github.io/can-graphpad-do-this/p-value-plots.html) demonstrating [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/) a package that allows you to add significance bars and stats directly to plots
+- Nick's presentation [Can GraphPad do this?](https://ucd-reproducible-research-clinic.github.io/can-graphpad-do-this/p-value-plots.html) demonstrating [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/) a package that allows you to add significance bars and stats directly to plots *Date: 2017-11-02*
 
 # Blog posts
 
