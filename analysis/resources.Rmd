@@ -1,0 +1,23 @@
+---
+title: "Resources"
+author: "UC-Denver Anschutz Campus Reproducible Research Clinic"
+output:
+  html_document:
+    toc: false
+---
+
+# Past presentations
+
+- Nick's presentation [Can GraphPad do this?](https://ucd-reproducible-research-clinic.github.io/can-graphpad-do-this/p-value-plots.html) demonstrating [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/) a package that allows you to add significance bars and stars directly to plots
+
+# Blog posts
+
+*Coming soon*
+
+# Our first analysis (a quick intro to data analysis with R)
+
+In a coming post, we will perform our first quick analysis on some simulated data and learn the basics of the language as we go. If you have trouble, don't hesitate to contact us or stop by a meeting, we are happy to help!
+
+# Useful links
+- [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/) add significance bars, statistical tests, and p values directly to ggplot2 graphs
+- [workflowr](https://github.com/jdblischak/workflowr) is how we built this website! 

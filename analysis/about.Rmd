@@ -5,29 +5,39 @@ output:
     toc: false
 ---
 
-# Welcome to reproducible research clinic! 
-The UC-Denver Reproducible Research Clinic seeks to inspire researchers to adopt the principles and practices of Reproducible Research (RR) so that they become part of daily scientific workflow. The club has two goals that will be addressed every meeting. We will: 
-
-1. provide support and tutorials for the adoption and general use of RR tools 
-
-2. help researchers with their specific statistical and coding needs in a "clinic" setting.
+# Welcome to reproducible research Network! 
 
 We meet every other Friday at 11:00am in various floors. Contact Josh or Nick about time and location!
 
 [Contact](https://ucd-reproducible-research-clinic.github.io/members.html) us here.
 
-## Links
-
-- Nick's presentation [Can GraphPad do this?](https://ucd-reproducible-research-clinic.github.io/can-graphpad-do-this/p-value-plots.html) demonstrating __ggpubr__ a package that allows you to add significance bars and stars directly to plots
-
-
 ## Why should I learn R for reproducible research?
 **Programming by scientists, for scientists**
-As scientists, we have to learn many tools to make our research possible. We end up learing and using many very advanced tools for bench lab work, but when it comes to data analysis we default to our inherited 'easy to get started' tools like Microsoft Excel and GraphPad Prism. These tools make it easy to get started and get a quick look at your data, but problems quickly arise when your analysis gets even slightly complex. How many times have you spent hours copy pasting results from an excel spreadsheet into Prism, or missed a row when pasting data into excel for a calculation? Or how about that awesome figure you made 6 months ago that your advisor wants to use for a grant or wants you to add more data to? Can you find that screenshot or png but just cant remember the exact set of steps you took to generate it? 
+As scientists, we have to learn many tools to make our research possible. We end up learing and using many advanced tools for bench lab work, but when it comes to data analysis we default to our inherited 'easy to get started' tools like Microsoft Excel and GraphPad Prism. These tools make it easy to get started and get a quick look at your data, but problems quickly arise when your analysis gets even slightly complex. How many times have you spent hours copy pasting results from an excel spreadsheet into Prism, or missed a row when pasting data into excel for a calculation? Or how about that awesome figure you made 6 months ago that your advisor wants to use for a grant or wants you to add more data to? Can you find that screenshot or png but just cant remember the exact set of steps you took to generate it? 
 
 The problem with tools like Microsoft Excel and GraphPad Prism is that they are expensive programs and they make it very difficult to 'script' or automate your workflow. Although they may be easier in the short term, in the long term they require you to spend countless hours copy-pasting and clicking through options every time you have data to analyze. Here at the Reproducible research clinic, we think your time as a scientist is too valuable to spend copy-pasting data. You bring us your data, and we will show you how your analysis can be simplified and automated using R, a FREE and OPEN-SOURCE programming language.  
 
 Getting started with a programming language can be intimidating, but it really shouldn't be! Keep in mind that most people in this group have been coding for **less than 3 years**! Learning to program as part of your academic work can make you more productive and is also an extremly lucrative skillset both inside and outside of academia (especially for languages like R and Python!). Most importantly, learning these tools empowers you to perform more reproducible research. More of your time will be spent reading and planning experiments while minimizing (eventually eliminating) the amount of copy-pasting and fumbling around with excel. Again, the best part is that R and python (we use R for the most part) are FREE and opensource languages! No license fees or proprietary formats required. 
+
+
+## Programming for scientists
+
+Getting started with a programming language can be intimidating, but it really shouldn't be! Keep in mind that most people in this group have been coding for **less than 3 years**! Learning to program as part of your academic work can make you more productive and is also an extremly lucrative skillset both inside and outside of academia (especially for languages like R and Python!). Most importantly, learning these tools empowers you to perform more reproducible research. More of your time will be spent reading and planning experiments while minimizing (eventually eliminating) the amount of copy-pasting and fumbling around with excel. Again, the best part is that R and python (we use R for the most part) are FREE and opensource languages! No license fees or proprietary formats required. 
+
+
+## How will I learn R for my analysis?
+
+Most people go about learning a language by trying to read through a whole introduction and doing all the boring exercises first. It may be months before they get to do anything intersting, relevant, or useful. We dont think that is a useful exercise or even the most efficient way to learn. As scientists, we learn to solve problems and get answers. We find the papers and learn what we have to in order to do the experiments and solve problems. We aren't computer scientists, so let's take the same approach to learning R!
+We will learn by exploring YOUR data. We show you the relevant commands, and you learn how to tweak options and explore even more. You learn what you need and want, that's it!
+
+
+## Need more reasons?
+- [R makes beautiful charts](http://www.r-graph-gallery.com/portfolio/ggplot2-package/)
+- [Can graphpad do this (p-values and stars)?](https://www.r-bloggers.com/add-p-values-and-significance-levels-to-ggplots/)
+- [R was created by, and is used by professional statisticians](http://www.statisticsviews.com/details/feature/8585391/Created-by-statisticians-for-statisticians-How-R-took-the-world-of-statistics-by.html)
+- The average salary for a data scientist (R and Python are the most popular languages) in the US is [$100,000](https://insights.stackoverflow.com/survey/2017#work-salaries-by-geography)
+- It isn't that hard to get started!
+
 
 ## What is this .rmd thing?
 
